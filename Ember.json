@@ -1,0 +1,84 @@
+{
+  "name": "Ember",
+  "species": "Hellhound",
+  "appearance": {
+    "head": {
+      "hair": {
+        "color": "fiery red",
+        "length": "below shoulder",
+        "style": "loose waves",
+        "parting": "side",
+        "fringe": "side-swept"
+      },
+      "eyes": {
+        "sclera": "dark red",
+        "irises": "white"
+      },
+      "makeup": {
+        "eyeliner": "black winged",
+        "mascara": true
+      },
+      "muzzle": {
+        "shape": "elongated triangular",
+        "color": "black",
+        "snakeBiteStuds": true
+      },
+      "ears": {
+        "shape": "wolf",
+        "stretchingAndGauging": true
+      },
+      "eyebrows": {
+        "slit": true,
+        "pierced": true
+      }
+    },
+    "body": {
+      "height": "5 feet 9 inches",
+      "build": "slender",
+      "anatomicalStructure": [
+        "Hellhound",
+        "Structured jaws with wolf-like teeth",
+        "Digitigrade legs and paws"
+      ],
+      "figure": {
+        "shoulders": "petite",
+        "waist": "slim",
+        "hips": "wide",
+        "thighs": "thick",
+        "butt": "voluptuous",
+        "breasts": "ample"
+      },
+      "features": [
+        "Sharp claws",
+        "Tapered tail with flame pattern"
+      ]
+    },
+    "fur": {
+      "primaryColor": "dark gray",
+      "faceColor": "light gray",
+      "additionalColors": ["light gray", "black"],
+      "splotches": [
+        {
+          "color": "black",
+          "size": "small",
+          "location": "face (freckles)"
+        },
+        {
+          "color": "black",
+          "size": "small",
+          "location": "right shoulder"
+        },
+        {
+          "color": "black",
+          "size": "small",
+          "location": "left arm"
+        },
+        {
+          "color": "black",
+          "size": "small",
+          "location": "legs and paws"
+        }
+      ]
+    }
+  }
+}
